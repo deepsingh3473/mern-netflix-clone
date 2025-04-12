@@ -4,7 +4,7 @@ A fully responsive, feature-rich **Netflix-inspired streaming web application** 
 
 ---
 
-## 🚀 Live Preview
+## 📸 Live Preview
 
 🔗 **Deployed on Render**: [Click here to view](https://mern-netflix-clone-83xb.onrender.com/)
 
@@ -93,14 +93,22 @@ npm install
 # Start the frontend
 npm start
 ```
+---
 
-### 🙋‍♂️ Author
-Deep Singh
-🔗 GitHub
+## 🙋‍♂️ Author
 
-### 📄 License
+Made with ❤️ by **Deep Singh**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+
+---
+
+## 📄 License
 This project is licensed under the MIT License.
 
-### 🌟 Support
+---
+
+## 🌟 Support
 If you like this project, consider giving it a ⭐️ on GitHub!
 Your feedback and contributions are always welcome!
