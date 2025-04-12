@@ -20,20 +20,20 @@ A fully responsive, feature-rich **Netflix-inspired streaming web application** 
 ✅ Responsive UI/UX with Tailwind CSS  
 ✅ RESTful APIs  
 ✅ MongoDB Atlas Integration  
-✅ Error Handling and Validation  
+✅ Error Handling and Validation
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech        | Description                            |
-|-------------|----------------------------------------|
-| **MongoDB** | Database for storing users & history   |
-| **Express** | Backend framework (Node.js)            |
-| **React**   | Frontend library                       |
-| **Node.js** | Backend runtime                        |
-| **Tailwind CSS** | Styling framework                |
-| **TMDB API**| Movie data from The Movie DB           |
+| Tech             | Description                          |
+| ---------------- | ------------------------------------ |
+| **MongoDB**      | Database for storing users & history |
+| **Express**      | Backend framework (Node.js)          |
+| **React**        | Frontend library                     |
+| **Node.js**      | Backend runtime                      |
+| **Tailwind CSS** | Styling framework                    |
+| **TMDB API**     | Movie data from The Movie DB         |
 
 ---
 
@@ -41,15 +41,15 @@ A fully responsive, feature-rich **Netflix-inspired streaming web application** 
 
 netflix-clone/
 ├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── ...
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ └── ...
 ├── frontend/
-│   ├── components/
-│   ├── pages/
-│   ├── App.js
-│   └── ...
+│ ├── components/
+│ ├── pages/
+│ ├── App.js
+│ └── ...
 └── README.md
 
 ---
@@ -93,6 +93,7 @@ npm install
 # Start the frontend
 npm start
 ```
+
 ---
 
 ## 🙋‍♂️ Author
@@ -105,10 +106,12 @@ Made with ❤️ by **Deep Singh**
 ---
 
 ## 📄 License
+
 This project is licensed under the MIT License.
 
 ---
 
 ## 🌟 Support
+
 If you like this project, consider giving it a ⭐️ on GitHub!
 Your feedback and contributions are always welcome!
